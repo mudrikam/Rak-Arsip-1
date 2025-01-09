@@ -1,0 +1,3 @@
+Vertikal_Flag
+Vertical_Flag
+Horizontal_Flag

@@ -1,0 +1,9 @@
+Shopping_bag
+ToteBag
+Boxes
+Cosmetic_Packaging
+Paper_Tube
+Coffee_Packaging
+Pepper_Jar
+Shoe_Boxes
+Sachet

@@ -1,0 +1,14 @@
+REM Menentukan Disk yang akan untuk membuat folder
+Disk=X
+
+REM Anggota Team
+team_Member=Hikam
+
+REM Daftar Klien
+client_Member=Klien
+
+REM versi generator folder DSNA
+version=v1.2.0
+
+REM Sub folder untuk single image
+single_SubFolders=Base Blender PSD IMG Assets Assets\Model Assets\Material Assets\Lighting Assets\Lighting\HDRI Assets\Lighting\Setup Assets\Scene
